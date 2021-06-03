@@ -1,0 +1,14 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "Playground for problem solving",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Andrius Bacianskas",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.3"
+  }
+}
